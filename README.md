@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Mehedi Hassan</h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Software+Developer;Backend+Enthusiast;Problem+Solver;Open+Source+Learner)](https://git.io/typing-svg)</h3>
+<div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Software+Developer;Backend+Enthusiast;Problem+Solver;Open+Source+Learner)](https://git.io/typing-svg)</div>
 
 <p align="center">
   <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> •
