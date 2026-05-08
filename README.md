@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> •
-  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
-  <a href="YOUR_GITHUB_LINK">GitHub</a> •
+  <a href="https://mehedihassanortfolio.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/mehedi-hassan-ba6b29342/">LinkedIn</a> •
+  <a href="https://github.com/mehedi0-007">GitHub</a> •
   <a href="mailto:hassanmehedi685@gmail.com">Email</a>
 </p>
 
@@ -16,11 +16,11 @@
 
 ## 🚀 About Me
 
-- 🎓 Final Year CSE Student at **Daffodil International University**
-- 💻 Passionate about **Backend Development**, **Web Applications**, and **System Design**
+- 🎓 Recent CSE graduate from **Daffodil International University**
+- 💻 Passionate about **Backend Development**, **Full staack Applications**, and **System Design**
 - 🔐 Interested in **API Security**, **Authentication Systems**, and **Scalable Architectures**
 - 🧠 Solved **500+ programming problems** across competitive programming platforms
-- 🏆 Ranked **4th in UTA**
+- 🏆 Ranked **4th in Unlock The Algorithm Programming Contest**
 - 👨‍🏫 Mentored students in **Data Structures & Algorithms**
 
 ---
@@ -110,9 +110,9 @@ Bash-based automation tool for Linux development setup.
 ## 📊 Competitive Programming
 
 <p align="left">
-  <a href="YOUR_CODEFORCES_LINK">Codeforces</a> •
-  <a href="YOUR_LEETCODE_LINK">LeetCode</a> •
-  <a href="YOUR_CODECHEF_LINK">CodeChef</a>
+  <a href="https://codeforces.com/profile/mehedi-007">Codeforces</a> •
+  <a href="https://leetcode.com/u/mehdi2256/">LeetCode</a> •
+  <a href="https://www.codechef.com/users/mehedi2256">CodeChef</a>
 </p>
 
 - Solved **500+ problems**
@@ -127,9 +127,9 @@ Bash-based automation tool for Linux development setup.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedi0-007&show_icons=true&theme=tokyonight" height="170">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi0-007&theme=tokyonight" height="170">
 </p>
 
 ---
