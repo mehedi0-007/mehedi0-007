@@ -7,7 +7,7 @@
   <a href="https://mehedihassanortfolio.vercel.app/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/mehedi-hassan-ba6b29342/">LinkedIn</a> •
   <a href="https://github.com/mehedi0-007">GitHub</a> •
-  <a href="mailto:hassanmehedi685@gmail.com">Email</a>
+  <a href="mailto:hassanmehedi685@gmail.com">hasssanmehedi685@gmial.com</a>
 </p>
 
 ---
