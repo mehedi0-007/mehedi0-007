@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Mehedi Hassan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Md+Mehedi+Hassan;Software+Developer;Backend+Developer;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Developer;Problem+Solver;Open+Source+Learner" />
 </p>
 
 <p align="center">
