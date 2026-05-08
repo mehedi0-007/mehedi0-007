@@ -70,7 +70,7 @@ Secure and scalable REST API with production-level backend architecture.
 ### Stack
 `Node.js` `Express.js` `MongoDB` `JWT` `RBAC`
 
-🔗 **Repository:** YOUR_GITHUB_LINK
+🔗 **Repository:** https://github.com/mehedi0-007/ToDo-app-Backend-
 
 ---
 
@@ -87,7 +87,7 @@ Mobile-first financial wallet application inspired by MFS systems.
 ### Stack
 `HTML` `CSS` `TailwindCSS` `JavaScript`
 
-🔗 **Repository:** YOUR_GITHUB_LINK
+🔗 **Repository:** https://github.com/mehedi0-007/P_wallet
 
 ---
 
@@ -102,8 +102,6 @@ Bash-based automation tool for Linux development setup.
 
 ### Stack
 `Bash` `Linux`
-
-🔗 **Repository:** YOUR_GITHUB_LINK
 
 ---
 
