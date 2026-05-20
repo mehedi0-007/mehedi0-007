@@ -118,6 +118,7 @@ Mobile-first financial wallet application inspired by MFS systems.
 `HTML` `CSS` `TailwindCSS` `JavaScript`
 
 🔗 **Repository:** https://github.com/mehedi0-007/P_wallet
+🌐 **Live:** https://p-wallet-sepia.vercel.app/
 
 ---
 
