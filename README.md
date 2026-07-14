@@ -104,21 +104,26 @@ A full-stack URL shortening platform with visitor analytics, role-based access, 
 
 ---
 
-## 🔐 Todo REST API
-Secure and scalable REST API with production-level backend architecture.
+## 📋 Multi-Tenant Task Management API
+
+A production-oriented backend API designed for organizations to manage projects, boards, columns, and tasks with secure authentication and tenant isolation.
 
 ### Features
-- JWT Authentication with dual-token system
-- HttpOnly Cookie-based refresh tokens
-- RBAC authorization system
-- Rate limiting & brute-force protection
-- MVC architecture
-- Pagination, filtering & sorting
+- Multi-tenant architecture with organization-based data isolation
+- JWT Authentication with access & refresh token rotation
+- Role-Based Access Control (RBAC)
+- Secure password hashing using bcrypt
+- Project, board, column, and task management
+- Pagination, filtering, and search support
+- Prisma transactions for data consistency
+- Soft delete support
+- Layered architecture with clean separation of concerns
+- Global exception handling and standardized API responses
 
 ### Stack
-`Node.js` `Express.js` `MongoDB` `JWT` `RBAC`
+`NestJS` `TypeScript` `PostgreSQL` `Prisma ORM` `JWT` `Docker`
 
-🔗 **Repository:** https://github.com/mehedi0-007/ToDo-app-Backend-
+🔗 **Repository:** https://github.com/mehedi0-007/Task-Manager-a-multi-tenant-task-management-API
 
 ---
 
