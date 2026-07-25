@@ -186,8 +186,9 @@ Mobile-first financial wallet application inspired by MFS systems.
 
 - Advanced Backend Architecture
 - System Design
-- Scalable Web Applications
-- Django & Full Stack Development
+- Scalable Applications
+- Full Stack Development
+- Docker & core OS properties
 
 ---
 
