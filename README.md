@@ -168,14 +168,8 @@ Mobile-first financial wallet application inspired by MFS systems.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mehedi0-007&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi0-007&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 </p>
 
 ## 🔥 Contribution Streak
