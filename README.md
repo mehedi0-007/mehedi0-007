@@ -16,12 +16,12 @@
 
 ## 🚀 About Me
 
-- 🎓 Recent CSE graduate from **Daffodil International University**
-- 💻 Passionate about **Backend Development**, **Full stack Applications**, and **System Design**
-- 🔐 Interested in **API Security**, **Authentication Systems**, and **Scalable Architectures**
-- 🧠 Solved **700+ programming problems** across competitive programming platforms
+- 🎓 I am a recent CSE graduate from **Daffodil International University**
+- 💻 Passionate about **Backend Development**, **Full stack Applications**, **System Design**, **Infrastructure Engineering** and more
+- 🔐 Interested in **Low level system handling**, **Microservices**, **Scalable Architectures**, **Distributed Systems**, 
+- 🧠 Solved **700+ programming problems** across various competitive programming platforms
 - 🏆 Ranked **4th in Unlock The Algorithm Programming Contest**
-- 👨‍🏫 Mentored students in **Data Structures & Algorithms**
+- 👨‍🏫 Mentored various students in **Data Structures & Algorithms**
 
 ---
 
