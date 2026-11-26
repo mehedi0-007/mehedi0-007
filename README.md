@@ -176,7 +176,7 @@ Mobile-first financial wallet application inspired by MFS systems.
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=mehedi0-007&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=mehedi0-007&theme=tokyonight&hide_border=true&timezone=Asia/Dhaka"
     alt="GitHub streak"
   />
 </p>
